@@ -1,4 +1,4 @@
 # CS3744
-Virginia Tech Spring 2017 CS2304 JavaScript for Java Programmers
+Virginia Tech Fall 2017 CS3744 Intro to GUI programming
 
-This is the repository to store all my work for the CS2304 class
+This is the repository to store all my work for the CS3744 class
