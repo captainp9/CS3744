@@ -1,0 +1,52 @@
+/**
+ * Homework 1: Sets the view
+ * Based on the css start code provided by the instructor.
+ *
+ * @author Hongyi Zhen
+ * @version 1
+ */
+
+.root {
+    -fx-background-color: white;
+}
+
+.slider {
+    -fx-orientation: horizontal;
+    -fx-show-tick-labels: true;
+    -fx-show-tick-marks: true;
+    -fx-major-tick-unit: 50;
+    -fx-minor-tick-count: 4;
+    -fx-show-tick-labels: true;
+    -fx-snap-to-ticks: false;
+    -fx-block-increment: 1;
+}
+
+#labelRedValue {
+    -fx-alignment: center-right;
+    -fx-text-fill: red;
+}
+
+#labelRedName {
+    -fx-alignment: center;
+}
+
+#labelGreenValue {
+    -fx-alignment: center-right;
+    -fx-text-fill: green;
+}
+
+#labelGreenName {
+    -fx-alignment: center;
+}
+
+#labelBlueValue {
+    -fx-alignment: center-right;
+    -fx-text-fill: blue;
+}
+
+#labelBlueName {
+    -fx-alignment: center;
+}
+
+
+
